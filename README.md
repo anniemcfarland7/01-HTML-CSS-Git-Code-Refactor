@@ -37,7 +37,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ```md
-!01-HTML-CSS-Git-Code-Refactor/assets/images/screenshot.pn
+![Web Screenshot]https://github.com/anniemcfarland7/01-HTML-CSS-Git-Code-Refactor/blob/main/assets/images/screenshot.png
 ```
 
 
