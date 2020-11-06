@@ -11,10 +11,8 @@ There's no one right way to structure a good README. There is one very wrong way
 At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
 
 Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+Website URL: https://anniemcfarland7.github.io/01-HTML-CSS-Git-Code-Refactor/
+Repository URL: https://github.com/anniemcfarland7/01-HTML-CSS-Git-Code-Refactor
 
 
 ## Table of Contents (Optional)
